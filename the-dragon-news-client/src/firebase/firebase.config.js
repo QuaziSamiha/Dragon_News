@@ -16,7 +16,7 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_APPID,
 };
 
-// const firebaseConfig = {
+// // const firebaseConfig = {
 //   apiKey: "AIzaSyD-swaihdZdyEwEArDBfF8NZhO0MMlYZM4",
 //   authDomain: "dragon-news-6064b.firebaseapp.com",
 //   projectId: "dragon-news-6064b",
